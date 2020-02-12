@@ -100,6 +100,7 @@ You can collaborate with others on one project in any language and also find a l
 ## Other Resources
 
  [GitHub Cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+ 
  [Youtube video about github](https://www.youtube.com/watch?v=SWYqp7iY_Tc) 
 
 
