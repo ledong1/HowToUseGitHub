@@ -16,19 +16,19 @@ You can collaborate with others on one project in any language and also find a l
  
 
 ## 1. On GitHub website
- ### create GitHub account
+ ### * create GitHub account
  go to [github pricing](https://github.com/pricing) page and follow the instruction.
  Free version will do the work for the most of you.
  
- ### add new repo (and add collaborator is its private) 
- click *+*
+ ### * add new repo (and add collaborator is its private) 
+ click **+**
  
  ![](https://help.github.com/assets/images/help/repository/repo-create.png)
  
- or *new*
+ or **new**
  ![]()
  
- ### link online repo to local
+ ### * link online repo to local
  
  
 ## 2. On your PC/Mac using cmd/terminal
