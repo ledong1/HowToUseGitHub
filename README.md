@@ -70,6 +70,7 @@ You can collaborate with others on one project in any language and also find a l
    * push to remote: `>git push -u origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20push.png?raw=true)
 	 * EVERY Time you want to PUSH, First add and commit, and pull, after all these, push, or it might be 		   overwritten : (
    * pull from remote: `>git pull origin master`
+     
       ![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20pull.png?raw=true)
    
      * EVERY Time you want to PULL, add and commit!!! your local repo first, or it might be overwritten : (
