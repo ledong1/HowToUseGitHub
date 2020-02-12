@@ -4,7 +4,7 @@
 GitHub is a website where programmers save and share their codes. 
 You can collaborate with others on one project in any language and also find a lot of interesting thing.
 
-**If anyone feel this useful, please give me a star :) **
+** If anyone feel this useful, please give me a star :) **
 
 # Index
 #### 1. On GitHub website
