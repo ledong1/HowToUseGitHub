@@ -82,12 +82,17 @@ You can collaborate with others on one project in any language and also find a l
    1. use `cd` to get in the eclipse workspace
   (way to find where your file is)
   ![](https://github.com/ledong1/HowToUseGitHub/blob/master/eclipse%20path.png?raw=true)
-    2. `>git init`  in that path![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20init%20in%20that%20path.png?raw=true)
-    3. `>git add --all`
-    4. `git commit -m '*your notes*'`
+    
+   2. `>git init`  in that path![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20init%20in%20that%20path.png?raw=true)
+    
+   3. `>git add --all`
+    
+   4. `git commit -m '*your notes*'`
     ![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20add%20commit.png?raw=true)
-    6. `git remote add origin *URL*`
-    7. `git push origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/gitpush3.png?raw=true)
+    
+   6. `git remote add origin *URL*`
+    
+   7. `git push origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/gitpush3.png?raw=true)
   
   ### Don't have local Java file?  ->`Clone` to your eclipse workspace
 1. go to your eclipse workspace 
