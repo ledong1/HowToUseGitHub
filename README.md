@@ -1,4 +1,5 @@
 
+
 # How to use GitHub
 GitHub is a website where programmers save and share their codes. 
 You can collaborate with others on one project in any language and also find a lot of interesting thing.
@@ -56,8 +57,8 @@ You can collaborate with others on one project in any language and also find a l
 |show directory | >dir |>ls  |
 |change directory|>cd|>cd|
 |go one floder up|>cd\.\.|>cd\.\.|
-   [other win commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
-   [other mac commands](https://macpaw.com/how-to/use-terminal-on-mac)
+[other win commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+[other mac commands](https://macpaw.com/how-to/use-terminal-on-mac)
   
 ### (3) commands for git
    * init local repo: ` >git init` ![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20init.png?raw=true)
@@ -68,8 +69,10 @@ You can collaborate with others on one project in any language and also find a l
 
    * push to remote: `>git push -u origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20push.png?raw=true)
 	 * EVERY Time you want to PUSH, First add and commit, and pull, after all these, push, or it might be 		   overwritten : (
-   * pull from remote: `>git pull origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20pull.png?raw=true)
-	 * EVERY Time you want to PULL, add and commit!!! your local repo first, or it might be overwritten : (
+   * pull from remote: `>git pull origin master`
+      ![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20pull.png?raw=true)
+   
+     * EVERY Time you want to PULL, add and commit!!! your local repo first, or it might be overwritten : (
      * EVERY Time you want to PUSH, First add and commit, then pull, at last push, or it might be overwritten : (
    * clone from repo: `>git clone *URL* `![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20clone.png?raw=true)
    
