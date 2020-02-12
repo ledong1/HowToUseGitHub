@@ -32,13 +32,12 @@ You can collaborate with others on one project in any language and also find a l
  ![](https://github.com/ledong1/HowToUseGitHub/blob/master/Snipaste_2020-02-12_01-36-04.png?raw=true)
  
  ### (2.5) add collaborator
- go to your private repo,click setting
+ **go to your private repo,click setting**
  
- ![](https://github.com/ledong1/HowToUseGitHub/blob/master/Snipaste_2020-02-12_01-53-15.png?raw=true)
- click collaborator on the left
+ **click collaborator on the left**
  ![](https://github.com/ledong1/HowToUseGitHub/blob/master/Snipaste_2020-02-12_01-51-13.png?raw=true)
  
- search username and add
+ **search username and add**
  
  ![](https://github.com/ledong1/HowToUseGitHub/blob/master/Snipaste_2020-02-12_01-52-56.png?raw=true)
  
