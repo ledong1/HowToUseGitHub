@@ -120,7 +120,7 @@ You can collaborate with others on one project in any language and also find a l
 
 ![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport5.png?raw=true)
 
-7. "browse" your directory, to find the place you want to save it. then "next"
+6. "browse" your directory, to find the place you want to save it. then "next"
 
 ![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport6.png?raw=true)
 
