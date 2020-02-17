@@ -1,5 +1,6 @@
 
 
+
 # How to use GitHub
 GitHub is a website where programmers save and share their codes. 
 You can collaborate with others on one project in any language and also find a lot of interesting thing.
@@ -17,7 +18,7 @@ You can collaborate with others on one project in any language and also find a l
  * commands for git
 #### 3. Special for eclipse java
  * Already create a java file? ->init git in that path and push it
- * Don't have local Java file? ->Clone to the path
+ * Don't have local Java file? ->use eclipse import function
  
 
 # 1. On GitHub website
@@ -96,12 +97,37 @@ You can collaborate with others on one project in any language and also find a l
     
    7. `git push origin master`![](https://github.com/ledong1/HowToUseGitHub/blob/master/gitpush3.png?raw=true)
   
-  ### Don't have local Java file?  ->`Clone` to your eclipse workspace
-1. go to your eclipse workspace 
-	**click on any project you have in your eclipse**
-	 ![](https://github.com/ledong1/HowToUseGitHub/blob/master/eclipse%20path.png?raw=true)
-![](https://github.com/ledong1/HowToUseGitHub/blob/master/eclipseworkspace%20path.png?raw=true)
-2. git clone under this path `git clone *URL*`![](https://github.com/ledong1/HowToUseGitHub/blob/master/git%20clone%20to%20eclipse.png?raw=true)
+  ### Don't have local Java file?  ->use eclipse import function
+1. Right click in your eclipse Project Explorer, and choose "import"
+
+![](https://github.com/ledong1/HowToUseGitHub/blob/master/ec%20import%201.png?raw=true)
+
+3. "git"->"projects from git (with smart import)", then next
+
+![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/e%20import%202.png?raw=true)
+ 
+ 
+5.  "clone url", then next
+
+![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport3.png?raw=true)
+
+7. entre the URL of your github repo in "URL", and enter your github username and password. Then click "next"
+
+![](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport4.jpg?raw=true)
+
+
+5. choose the branch you want to import(just master), then "next"
+
+![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport5.png?raw=true)
+
+7. "browse" your directory, to find the place you want to save it. then "next"
+
+![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport6.png?raw=true)
+
+7. wait for a while, then choose the parts you want to import, then "finish"
+
+![enter image description here](https://github.com/ledong1/HowToUseGitHub/blob/master/eimport7.png?raw=true)
+
 
 
 ## Other Resources
